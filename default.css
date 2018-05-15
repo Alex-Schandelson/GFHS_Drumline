@@ -448,9 +448,10 @@
 	}
 
 	#footer #fbox3 {
-		float: right;
+		float:right;
 		width: 300px;
 	}
+
 
 /*********************************************************************************/
 /* Copyright                                                                     */
@@ -495,10 +496,17 @@
 
 	#three-column #tbox1,
 	#three-column #tbox2,
-	#three-column #tbox3
+	#three-column #tbox3,
+    #three-column #tbox4,
+    #three-column #tbox5,
+    #three-column #tbox6,
+    #three-column #tbox7,
+    #three-column #tbox8,
+    #three-column #tbox9
 	{
-		float: left;
+		float:left;
 		width: 300px;
+        height: 300px;
 		padding: 50px 50px 80px 50px;
 	}
 
